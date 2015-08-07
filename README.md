@@ -1,11 +1,11 @@
 ## General Information
 
 - Completing all of the subtasks should take you around an hour.
-- Feel free to use any internet sources available, however please complete this exercise on your own.
+- Feel free to use any internet sources, however please complete this exercise on your own.
 - All code must be supported by tests.
-- No actual database implementations are required, feel free to stub or mock any data access you need.
+- No actual database implementations are required, feel free to mock any data access you need.
 - Please make sure your code follows SOLID principles.
-- Please **do not** email us your solution. Return your code via a public github repo or a file sharing website.
+- Please **do not** email us your solution. Return your code in a public github repo or file sharing website.
 - Task 3 D) is a BONUS question.
 
 ---
