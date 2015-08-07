@@ -49,16 +49,16 @@ Output: <pre>**cat: 1, dog: 2, large: 1, total: 4**</pre>
 Create a way to censor words featured in the "censored words list" that appear in the text.
 
 Example:
-Input: {"moew", "woof"} and "I have a cat named Meow and a dog name Woof. I love the dog a lot. He is larger than a small horse."
-Output: "I have a cat named M$$w and a dog name W$$f. I love the dog a lot. He is larger than a small horse."
+Input: <pre>{"moew", "woof"} and "I have a cat named Meow and a dog name Woof. I love the dog a lot. He is larger than a small horse."</pre>
+Output: <pre>**"I have a cat named M$$w and a dog name W$$f. I love the dog a lot. He is larger than a small horse."**</pre>
 
 #### Part C)
 
 Create a way to censor a single word palindrome in a text.
 
 Example
-Input: "Anna went to vote in the election to fulfil her civic duty"
-Output: "A$$a went to vote in the election to fulfil her c$$$c duty"
+Input: <pre>"Anna went to vote in the election to fulfil her civic duty"</pre>
+Output: <pre>"A$$a went to vote in the election to fulfil her c$$$c duty"</pre>
 
 #### Part D - BONUS)
 
