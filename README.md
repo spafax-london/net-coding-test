@@ -58,7 +58,7 @@ Create a way to censor a single word palindrome in a text.
 
 Example
 Input: <pre>"Anna went to vote in the election to fulfil her civic duty"</pre>
-Output: <pre>"A$$a went to vote in the election to fulfil her c$$$c duty"</pre>
+Output: <pre>**"A$$a went to vote in the election to fulfil her c$$$c duty"**</pre>
 
 #### Part D - BONUS)
 
