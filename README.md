@@ -26,11 +26,11 @@ Create a function which says if a string is a palindrome.
 
 Examples:
 
-Input: "I have some cheese"
-Output: False
+Input: <pre>I have some cheese</pre>
+Output: <pre>**False**</pre>
 
-Input: "God saved Eva’s dog"
-Output: True
+Input: <pre>God saved Eva’s dog</pre>
+Output: <pre>**True**</pre>
 
 ---
 
