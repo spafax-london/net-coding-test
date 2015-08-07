@@ -50,7 +50,7 @@ Create a way to censor words featured in the "censored words list" that appear i
 
 Example:
 Input: {"moew", "woof"} and "I have a cat named Meow and a dog name Woof. I love the dog a lot. He is larger than a small horse."
-Output: "I have a cat named M**w and a dog name W**f. I love the dog a lot. He is larger than a small horse."
+Output: "I have a cat named M$$w and a dog name W$$f. I love the dog a lot. He is larger than a small horse."
 
 #### Part C)
 
@@ -58,7 +58,7 @@ Create a way to censor a single word palindrome in a text.
 
 Example
 Input: "Anna went to vote in the election to fulfil her civic duty"
-Output: "A**a went to vote in the election to fulfil her c***c duty"
+Output: "A$$a went to vote in the election to fulfil her c$$$c duty"
 
 #### Part D - BONUS)
 
