@@ -15,8 +15,8 @@
 Create a function which counts the number of occurrences of a given letter in a string.
 
 Example:
-Input: <pre>'e' and "I have some cheese"<pre>
-Output: <pre>**5**<pre>
+Input: <pre>'e' and "I have some cheese"</pre>
+Output: <pre>**5**</pre>
 
 ---
 
