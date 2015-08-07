@@ -15,8 +15,8 @@
 Create a function which counts the number of occurrences of a given letter in a string.
 
 Example:
-Input: 'e' and "I have some cheese"
-Output: 5
+Input: <pre>'e' and "I have some cheese"<pre>
+Output: <pre>**5**<pre>
 
 ---
 
@@ -41,8 +41,8 @@ Output: <pre>**True**</pre>
 Create a function which counts the number of occurrences of words from a "censored words list" in a text.
 
 Example:
-Input: {"dog", "cat", "large"} and "I have a cat named Meow and a dog name Woof. I love the dog a lot. He is larger than a small horse."
-Output: cat: 1, dog: 2, large: 1, total: 4
+Input: <pre>{"dog", "cat", "large"} and "I have a cat named Meow and a dog name Woof. I love the dog a lot. He is larger than a small horse."</pre>
+Output: <pre>**cat: 1, dog: 2, large: 1, total: 4**</pre>
 
 #### Part B)
 
