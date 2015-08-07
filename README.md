@@ -23,7 +23,7 @@ Output: <pre>**5**</pre>
 
 ### Task 2
 
-Create a function which says if a string is a palindrome.
+Create a function which decides if a string is a palindrome.
 
 Examples:
 
