@@ -66,7 +66,7 @@ Output: <pre>**"A$$a went to vote in the election to fulfil her c$$$c duty"**</p
 
 #### Part D - BONUS)
 
-Come up with at least 3 different ways to load the "censored words list" in the application.
+Come up with at least 3 different ways to provide the "censored words list" to the application. This task does not require coding, please send us  3 bullet points on how you would do this. 
 
 ---
 
