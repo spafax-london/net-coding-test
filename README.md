@@ -1,6 +1,6 @@
 ## General Information
 
-- Completing all of the subtasks should take you around an hour.
+- Please take as much time as you need.
 - Feel free to use any internet sources, however please complete this exercise on your own.
 - All code must be supported by tests.
 - No actual database implementations are required, feel free to mock any data access you need.
